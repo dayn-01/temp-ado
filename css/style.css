@@ -1,0 +1,63 @@
+
+.navbar-brand {
+    padding-left: 1%;
+}
+
+#photobanner {
+    width: 100%;
+}
+
+#startmessage {
+    width: 25%;
+}
+
+#entire-content-body {
+    background-color: aqua;
+    width: 100%;
+}
+
+.center-div {
+  margin: auto;
+  width: 70%;
+  border: #008CBA;
+  padding: 10px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+
+.col-sm-4 {
+    padding: 5px;
+}
+
+
+.cards:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.hidden {
+    display: none;
+}
+
+.rows {
+    column-count: 3;      /* number of columns */
+    
+}
+
+.right {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+
+.center-img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
