@@ -71,7 +71,7 @@ window.addEventListener('DOMContentLoaded', event => {
                                         <h5 class="card-title">`+msgSender+`</h5>
                                         <p class="card-text">`+msgActual+`</p>
                                         <div class="center-img">
-                                            <img style="margin:auto; width: 180px" src="`+msgImage+`">
+                                            <img style="margin:auto; display:block; width:90%; max-width:250px;" src="`+msgImage+`">
                                         </div>
                                         <div class="text-right">
                                             <a class="btn btn-blue" href="`+msgSocialLink+`"> - `+icon+` `+msgSocialName+`</a>
